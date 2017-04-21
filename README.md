@@ -1,2 +1,0 @@
-# Discord
-discord alerts
